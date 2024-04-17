@@ -22,7 +22,7 @@ The four models used on this data set is Linear Regression, Random Forest Regres
 **Evaluation Metric R<sup>2</sup> Score Comparison Between Models**
 ![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/32139aec-76bd-4922-a53c-1e42a3f3f006)
 
-For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
+For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting). Random Forest and Lasso had the worst outcomes for this metric.
 
 **Evaluation Metric Median Absolute Error(MAE) Comparison Between Models**
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/b58eb7fc-b548-4aa5-8932-abfbbc177a7c)
