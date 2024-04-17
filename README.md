@@ -28,28 +28,26 @@ For the R2 Score metric, Ridge has a score closest to 1 without being too close 
 
 For the MAE metric, Ridge has the lowest error value.
 
-Ridge Regression Model suggests that the factors that customers care the most about when buying a used car are:
-1. Model of the vehicle 
-3. Year the Vehicle was Manufactured
-4. Manufacturer of the Vehicle
-5. State in which the sale happened
-6. Odometer value at the time of purchase
+## Findings from the Models:
+After training the models and analyzing the most important coefficients, the following factors are the most important:
+1. Model/ Manufacturer of the Vehicle:
+There are certain Models and Manufacterers that are are coveted the most by used car buyers. The models that are the most expensive are "t", willys coupe, nomad, 34 Tudor, and chevelle malibu conver. The most expensive manufactureres for used cars are ferrari, morgan, aston-martin, saturn, tesla, and porsche.
 
-The models of cars most coveted by used car buyers are:
-1. "t"                       
-2. willys coupe                
-3. nomad                       
-4. 34 Tudor                   
-5. chevelle malibu conver
+While it does not make sense from an inventory stand point to only purchase those cars, if any of those Models/Manufacturers are on the market, it makes sense for the client to add them to the inventory immediately.
 
-The manufacturers of cars that are priced the highest are:
-1. ferrari   
-2. morgan          
-3. aston-martin    
-4. saturn
-5. tesla  
-6. porsche  
+2. Year the Vehicle was manufactured: Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
+
+3. The Odometer value at the time of purchase: Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
 
 Used car buyers also want to buy cars that are newer, and do not have as much milage on them. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices.
 
 
+## Recommendations:
+1. Try to implement inventory stratagies that reflect the key findings. Try to purchase vehicles that are newer and have less miles on them. Also try to purchase cars that are in the most sought after Model and Manufacturer list.
+2. Make sure that the cars that have historically sold for more are priced correctly.
+3. Continue to keep an eye on the market and what customers are interested in and reevaluate if the model's findings are still applicable/ need to be modified.
+
+## Next Steps:
+It will be very helpful to continue to receive data about used car sales from the client so that we can further train the models to see which model performs better with more data. There is also a possiblity that findings might change and these changes need to be communicated with the client.
+
+Different models can also be trained to see if there are any that perform better than Ridge Regression.
