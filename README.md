@@ -36,17 +36,19 @@ There are certain Models and Manufacterers that are are coveted the most by used
 
 While it does not make sense from an inventory stand point to only purchase those cars, if any of those Models/Manufacturers are on the market, it makes sense for the client to add them to the inventory immediately.
 
-#### 2. Year the Vehicle was manufactured: Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
+#### 2. Year the Vehicle was manufactured:
+Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
 
-#### 3. The Odometer value at the time of purchase: Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
+#### 3. The Odometer value at the time of purchase: 
+Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
 
 Used car buyers also want to buy cars that are newer, and do not have as much milage on them. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices.
 
 
 ## Recommendations:
-#### 1. Try to implement inventory stratagies that reflect the key findings. Try to purchase vehicles that are newer and have less miles on them. Also try to purchase cars that are in the most sought after Model and Manufacturer list.
-#### 2. Make sure that the cars that have historically sold for more are priced correctly.
-#### 3. Continue to keep an eye on the market and what customers are interested in and reevaluate if the model's findings are still applicable/ need to be modified.
+1. Consider implementing inventory strategies that align with our key findings. Prioritize the acquisition of newer vehicles with lower mileage, as well as models and manufacturers that are in high demand.
+2. Ensure that vehicles with a history of commanding higher prices are priced appropriately to maximize profitability.
+3. Maintain vigilance over market trends and customer preferences. Regularly reassess the relevance and applicability of our models' findings, making adjustments as needed to stay responsive to market dynamics.
 
 ## Next Steps:
 It will be very helpful to continue to receive data about used car sales from the client so that we can further train the models to see which model performs better with more data. There is also a possiblity that findings might change and these changes need to be communicated with the client.
