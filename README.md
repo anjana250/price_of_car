@@ -31,24 +31,22 @@ For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being
 For the MAE metric, Ridge has the lowest error value. Linear and Random Forest are a little bit worse than Ridge while Lasso has the worst outcome.
 
 ## Findings from the Models:
-After training the models and analyzing the most important coefficients, the following factors are the most important:
-#### 1. Model/ Manufacturer of the Vehicle:
-There are certain Models and Manufacterers that are are coveted the most by used car buyers. The models that are the most expensive are "t", willys coupe, nomad, 34 Tudor, and chevelle malibu conver. The most expensive manufactureres for used cars are ferrari, morgan, aston-martin, saturn, tesla, and porsche.
+After thorough model training and analysis of the most influential coefficients, several crucial factors have emerged:
 
-While it does not make sense from an inventory stand point to only purchase those cars, if any of those Models/Manufacturers are on the market, it makes sense for the client to add them to the inventory immediately.
+#### 1. Model and Manufacturer of the Vehicle:
+Certain models and manufacturers are highly sought after by used car buyers, such as "t", Willys Coupe, Nomad, 34 Tudor, and Chevelle Malibu Conver. Likewise, Ferrari, Morgan, Aston-Martin, Saturn, Tesla, and Porsche are among the most expensive manufacturers for used cars. While it may not be practical to exclusively stock these vehicles, it is advisable for the client to prioritize adding them to their inventory whenever possible.
 
-#### 2. Year the Vehicle was manufactured:
-Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
+#### 2. Year of Manufacture:
+Newer vehicles tend to attract more buyer interest compared to older models that may come with higher maintenance requirements.
 
-#### 3. The Odometer value at the time of purchase: 
-Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
+#### 3. Odometer Value at Purchase:
+Buyers prefer vehicles with lower mileage, seeking cars that have been driven less.
 
-#### 4. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices:
-But this might not be a feasible change to impact for the Car Dealership.
+#### 4. Impact of Sales State:
+Certain states, such as Alaska, Hawaii, Idaho, Rhode Island, and Connecticut, have shown to have higher average prices. However, influencing this variable may be challenging for the dealership.
 
-#### 5. Other factors that have an impact on car sales to a lesser extent are:
-- Preference for vehicles that take diesel fuel and convertibles.
-- Vehicle condition is another factor that buyers consider.
+#### 5. Other Influential Factors:
+Buyers also show a preference for diesel-fueled vehicles and convertibles. Additionally, the condition of the vehicle plays a role in influencing buyer decisions, albeit to a lesser extent.
 
 ## Recommendations:
 1. Consider implementing inventory strategies that align with our key findings. Prioritize the acquisition of newer vehicles with lower mileage, as well as models and manufacturers that are in high demand. Diesel fuel vehicles or convertibles are also a good addition to the inventory. It is also a good idea to consider the condition of the vehicle obtained.
