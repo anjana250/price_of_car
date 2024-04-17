@@ -8,8 +8,8 @@ Initially, by looking at just the numerical columns of the vehicles dataset, Yea
 ![corrolation](https://github.com/anjana250/price_of_car/assets/15185723/ba54d933-7920-4089-87e5-966e4cd24aae)
 
 ## Business Goals and KPI
-1. Understand what characteristics customers value when purchasing a used car.
-2. How can the dealership use this information to optimize pricing and improve sales?
+#### 1. Understand what characteristics customers value when purchasing a used car.
+#### 2. How can the dealership use this information to optimize pricing and improve sales?
 
 The metrics used to analyze the models are R<sup>2</sup> Score and Median Absolute Error (MAE). The goal is to optimize these as much as possible.
 
@@ -31,22 +31,22 @@ For the MAE metric, Ridge has the lowest error value. Linear and Random Forest a
 
 ## Findings from the Models:
 After training the models and analyzing the most important coefficients, the following factors are the most important:
-1. Model/ Manufacturer of the Vehicle:
+#### 1. Model/ Manufacturer of the Vehicle:
 There are certain Models and Manufacterers that are are coveted the most by used car buyers. The models that are the most expensive are "t", willys coupe, nomad, 34 Tudor, and chevelle malibu conver. The most expensive manufactureres for used cars are ferrari, morgan, aston-martin, saturn, tesla, and porsche.
 
 While it does not make sense from an inventory stand point to only purchase those cars, if any of those Models/Manufacturers are on the market, it makes sense for the client to add them to the inventory immediately.
 
-2. Year the Vehicle was manufactured: Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
+#### 2. Year the Vehicle was manufactured: Generally speaking, Buyers are more interested in buying newer cars over older cars that might have more maintenance issues.
 
-3. The Odometer value at the time of purchase: Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
+#### 3. The Odometer value at the time of purchase: Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
 
 Used car buyers also want to buy cars that are newer, and do not have as much milage on them. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices.
 
 
 ## Recommendations:
-1. Try to implement inventory stratagies that reflect the key findings. Try to purchase vehicles that are newer and have less miles on them. Also try to purchase cars that are in the most sought after Model and Manufacturer list.
-2. Make sure that the cars that have historically sold for more are priced correctly.
-3. Continue to keep an eye on the market and what customers are interested in and reevaluate if the model's findings are still applicable/ need to be modified.
+#### 1. Try to implement inventory stratagies that reflect the key findings. Try to purchase vehicles that are newer and have less miles on them. Also try to purchase cars that are in the most sought after Model and Manufacturer list.
+#### 2. Make sure that the cars that have historically sold for more are priced correctly.
+#### 3. Continue to keep an eye on the market and what customers are interested in and reevaluate if the model's findings are still applicable/ need to be modified.
 
 ## Next Steps:
 It will be very helpful to continue to receive data about used car sales from the client so that we can further train the models to see which model performs better with more data. There is also a possiblity that findings might change and these changes need to be communicated with the client.
