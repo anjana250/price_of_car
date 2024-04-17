@@ -20,8 +20,10 @@ The four models used on this data set is Linear Regression, Random Forest Regres
 
 
 ![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/99389a78-48c3-4314-b4f8-65751f3cf8b1)
+
 For the R2 Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/927b31eb-849a-448d-abe7-d8dcf476e820)
+
 For the MAE metric, Ridge has the lowest error value.
 
 Ridge Regression Model suggests that the factors that customers care the most about when buying a used car are:
