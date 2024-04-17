@@ -11,7 +11,7 @@ Initially, by looking at just the numerical columns of the vehicles dataset, Yea
 1. Understand what characteristics customers value when purchasing a used car.
 2. How can the dealership use this information to optimize pricing and improve sales?
 
-The metrics used to analyze the models are R2 Score and Median Absolute Error (MAE). The goal is to optomize these as much as possible.
+The metrics used to analyze the models are R<sup>2</sup> Score and Median Absolute Error (MAE). The goal is to optimize these as much as possible.
 
 A thorough explanation of the Data Preparation,Data Understanding, and everythign else can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
 
