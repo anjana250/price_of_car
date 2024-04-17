@@ -13,4 +13,10 @@ Initially, by looking at just the numerical columns of the vehicles dataset, Yea
 
 The metrics used to analyze the models are R2 Score and Median Absolute Error (MAE). The goal is to optomize these as much as possible.
 
-A thorough explanation of the Data Preparation and Data Understanding can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
+A thorough explanation of the Data Preparation,Data Understanding, and everythign else can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
+
+## Modeling
+The four models used on this data set is Linear Regression, Random Forest Regression, Ridge, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R2 score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
+
+![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/99389a78-48c3-4314-b4f8-65751f3cf8b1) ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/927b31eb-849a-448d-abe7-d8dcf476e820)
+
