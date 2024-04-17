@@ -13,4 +13,4 @@ Initially, by looking at just the numerical columns of the vehicles dataset, Yea
 
 The metrics used to analyze the models are R2 Score and Median Absolute Error (MAE). The goal is to optomize these as much as possible.
 
-A thorough explanation of the Data Preparation and Data Understanding can be found by clicking on [Link to Jupyter Notebook][(https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)]
+A thorough explanation of the Data Preparation and Data Understanding can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
