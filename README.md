@@ -17,7 +17,7 @@ The metrics used to analyze the models are R<sup>2</sup> Score and Median Absolu
 A thorough explanation of the Data Preparation,Data Understanding, and everythign else can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
 
 ## Modeling
-The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R<sup>2</sup> score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
+The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge and Linear performed the best when comparing the metrics R<sup>2</sup> score and Median Absolute Error(MAE). Therefore, only the results from these model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
 
 
 **Evaluation Metric R<sup>2</sup> Score Comparison Between Models**
