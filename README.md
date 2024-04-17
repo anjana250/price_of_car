@@ -18,15 +18,16 @@ A thorough explanation of the Data Preparation,Data Understanding, and everythig
 ## Modeling
 The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R<sup>2</sup> score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
 
-**R2 Score Comparison Between Models**
-![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/99389a78-48c3-4314-b4f8-65751f3cf8b1)
+
+**Evaluation Metric R<sup>2</sup> Score Comparison Between Models**
+![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/32139aec-76bd-4922-a53c-1e42a3f3f006)
 
 For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
 
-**MAE Comparison Between Models**
-![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/927b31eb-849a-448d-abe7-d8dcf476e820)
+**Evaluation Metric Median Absolute Error(MAE) Comparison Between Models**
+![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/b58eb7fc-b548-4aa5-8932-abfbbc177a7c)
 
-For the MAE metric, Ridge has the lowest error value.
+For the MAE metric, Ridge has the lowest error value. Linear and Random Forest are a little bit worse than Ridge while Lasso has the worst outcome.
 
 ## Findings from the Models:
 After training the models and analyzing the most important coefficients, the following factors are the most important:
