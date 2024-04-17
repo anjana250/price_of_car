@@ -43,11 +43,15 @@ Generally speaking, Buyers are more interested in buying newer cars over older c
 #### 3. The Odometer value at the time of purchase: 
 Buyers want to buy cars that have a lower Odometer value. They want a car that does not have as much milage on it. 
 
-Used car buyers also want to buy cars that are newer, and do not have as much milage on them. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices.
+#### 4. The state in which the sale is made also has an impact, with Alaska, Hawaii, Idaho, Rhode Island and Connecticut having the highest prices:
+But this might not be a feasible change to impact for the Car Dealership.
 
+#### 5. Other factors that have an impact on car sales to a lesser extent are:
+- Preference for vehicles that take diesel fuel and convertibles.
+- Vehicle condition is another factor that buyers consider.
 
 ## Recommendations:
-1. Consider implementing inventory strategies that align with our key findings. Prioritize the acquisition of newer vehicles with lower mileage, as well as models and manufacturers that are in high demand.
+1. Consider implementing inventory strategies that align with our key findings. Prioritize the acquisition of newer vehicles with lower mileage, as well as models and manufacturers that are in high demand. Diesel fuel vehicles or convertibles are also a good addition to the inventory. It is also a good idea to consider the condition of the vehicle obtained.
 2. Ensure that vehicles with a history of commanding higher prices are priced appropriately to maximize profitability.
 3. Maintain vigilance over market trends and customer preferences. Regularly reassess the relevance and applicability of our models' findings, making adjustments as needed to stay responsive to market dynamics.
 
