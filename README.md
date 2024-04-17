@@ -23,12 +23,18 @@ The four models used on this data set is Linear Regression, Random Forest Regres
 **Evaluation Metric R<sup>2</sup> Score Comparison Between Models**
 ![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/32139aec-76bd-4922-a53c-1e42a3f3f006)
 
-For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting). Random Forest and Lasso had the worst outcomes for this metric.
+
+Linear: R<sup>2</sup> = 0.593
+Random Forest: R<sup>2</sup> = 0.143
+Ridge Regression: R<sup>2</sup> = 0.609
+Lasso: R<sup>2</sup> = 0.143
+The R<sup>2</sup> values indicate the proportion of variance in the dependent variable that is predictable from the independent variables. A higher R2 value suggests a better fit of the model to the data. In this case, the Ridge Regression model has the highest R2 value, followed by the Linear model, while the Random Forest and Lasso models have lower R2 values.
 
 **Evaluation Metric Median Absolute Error(MAE) Comparison Between Models**
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/b58eb7fc-b548-4aa5-8932-abfbbc177a7c)
 
-For the MAE metric, Ridge has the lowest error value. Linear and Random Forest are a little bit worse than Ridge while Lasso has the worst outcome.
+Mean Absolute Error (MAE) Analysis:
+Linear: MAE = 0.231 Random Forest: MAE = 0.575 Ridge Regression: MAE = 0.252 Lasso: MAE = 0.575 The MAE values represent the average magnitude of the errors in the model's predictions. A lower MAE indicates a better fit of the model to the data. In this case, the Linear model has the lowest MAE, followed by the Ridge Regression model, while the Random Forest and Lasso models have higher MAE values, indicating poorer performance in terms of prediction accuracy.
 
 ## Findings from the Models
 After thorough model training and analysis of the most influential coefficients, several crucial factors have emerged:
