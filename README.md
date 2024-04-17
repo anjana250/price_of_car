@@ -16,12 +16,12 @@ The metrics used to analyze the models are R2 Score and Median Absolute Error (M
 A thorough explanation of the Data Preparation,Data Understanding, and everythign else can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
 
 ## Modeling
-The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R2 score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
+The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R<sup>2</sup> score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
 
 **R2 Score Comparison Between Models**
 ![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/99389a78-48c3-4314-b4f8-65751f3cf8b1)
 
-For the R2 Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
+For the R<sup>2</sup> Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
 
 **MAE Comparison Between Models**
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/927b31eb-849a-448d-abe7-d8dcf476e820)
