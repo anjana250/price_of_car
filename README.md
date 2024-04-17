@@ -28,7 +28,7 @@ Linear: R<sup>2</sup> = 0.593
 Random Forest: R<sup>2</sup> = 0.143
 Ridge Regression: R<sup>2</sup> = 0.609
 Lasso: R<sup>2</sup> = 0.143
-The R<sup>2</sup> values indicate the proportion of variance in the dependent variable that is predictable from the independent variables. A higher R2 value suggests a better fit of the model to the data. In this case, the Ridge Regression model has the highest R2 value, followed by the Linear model, while the Random Forest and Lasso models have lower R2 values.
+The R<sup>2</sup> values indicate the proportion of variance in the dependent variable that is predictable from the independent variables. A higher R<sup>2</sup> value suggests a better fit of the model to the data. In this case, the Ridge Regression model has the highest R<sup>2</sup> value, followed by the Linear model, while the Random Forest and Lasso models have lower R<sup>2</sup> values.
 
 **Evaluation Metric Median Absolute Error(MAE) Comparison Between Models**
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/b58eb7fc-b548-4aa5-8932-abfbbc177a7c)
