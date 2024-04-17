@@ -52,3 +52,8 @@ Used car buyers also want to buy cars that are newer, and do not have as much mi
 It will be very helpful to continue to receive data about used car sales from the client so that we can further train the models to see which model performs better with more data. There is also a possiblity that findings might change and these changes need to be communicated with the client.
 
 Different models can also be trained to see if there are any that perform better than Ridge Regression.
+
+## Conclusion:
+Based on the analysis of the car sales data, several key recommendations and next steps have been identified. Implementing inventory strategies that prioritize newer vehicles with lower mileage, as well as cars from the most sought-after models and manufacturers, can lead to increased sales and profitability. Additionally, ensuring that historically higher-selling cars are priced correctly is crucial.
+Continuously monitoring market trends and customer preferences is essential to adapt strategies accordingly. It is also recommended to regularly reevaluate the model's findings and update them as necessary.
+Moving forward, it would be beneficial to receive more data on used car sales to further train the models and potentially explore other models besides Ridge Regression to see if any perform better. Communication with the client regarding any changes in findings or strategies is key to maintaining a successful partnership and maximizing results.
