@@ -18,10 +18,12 @@ A thorough explanation of the Data Preparation,Data Understanding, and everythig
 ## Modeling
 The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R2 score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
 
-
+**R2 Score Comparison Between Models**
 ![R2metrics](https://github.com/anjana250/price_of_car/assets/15185723/99389a78-48c3-4314-b4f8-65751f3cf8b1)
 
 For the R2 Score metric, Ridge has a score closest to 1 without being too close to 1 (sign of overfitting).
+
+**MAE Comparison Between Models**
 ![MAEmetrics](https://github.com/anjana250/price_of_car/assets/15185723/927b31eb-849a-448d-abe7-d8dcf476e820)
 
 For the MAE metric, Ridge has the lowest error value.
