@@ -1,14 +1,14 @@
 # Increase Used Car Dealership's Profit by Analyzing and Modeling Used Car Sales Data 
 
 [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
-## Background
+## Background:
 A used car dealership is interested in increasing their sales by having someone take a look at a dataset containing 426,000 records of previously sold used cars. This dataset consists of many features that customers take into consideration when purchasing a new car, such as: color, type, year, model, manufacturer, milage, etc. The task is to do some initial analysis on the data, clean it up by removing any duplicates/outliers and then find the factors that a customer cares about the most. Finally, the car dealership needs to know what the results are so they are able to implement the findings into their inventory, sales and marketing plan.
 
 Initially, by looking at just the numerical columns of the vehicles dataset, Year has a positive correlation with price- the newer the car, the more it can be sold for. The Title is also important in the sense that people would prefer to buy a vehicle iwth a clean title status. Odometer has a negative correlation meaning that people want a car that does not have as many miles on it. Interestingly, condition has a slightly negative correlation.
 
 ![corrolation](https://github.com/anjana250/price_of_car/assets/15185723/ba54d933-7920-4089-87e5-966e4cd24aae)
 
-## Business Goals and KPI
+## Business Goals and KPI:
 #### 1. Understand what characteristics customers value when purchasing a used car.
 #### 2. How can the dealership use this information to optimize pricing and improve sales?
 
@@ -16,7 +16,7 @@ The metrics used to analyze the models are R<sup>2</sup> Score and Median Absolu
 
 A thorough explanation of the Data Preparation,Data Understanding, and everythign else can be found by clicking on [Link to Jupyter Notebook](https://github.com/anjana250/price_of_car/blob/main/practical_application_II_starter/Price_of_Car_final.ipynb)
 
-## Modeling
+## Modeling:
 The four models used on this data set is Linear Regression, Random Forest Regression, Ridge Regression, and Lasso. Out of the four models, Ridge performed the best when comparing the metrics R<sup>2</sup> score and Median Absolute Error(MAE). Therefore, only the results from this model will be addressed here. If there is any interest in looking at any of the other models, please refer to Jupyter notebook above.
 
 
