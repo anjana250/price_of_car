@@ -1,4 +1,4 @@
-# Help Used Car Dealership Increase Profit by Analyzing and Modeling Used Car Sales Data 
+# Increase Used Car Dealership's Profit by Analyzing and Modeling Used Car Sales Data 
 
 ## Background
 A used car dealership is interested in increasing their sales by having someone take a look at a dataset containing 426,000 records of previously sold used cars. This dataset consists of many features that customers take into consideration when purchasing a new car, such as: color, type, year, model, manufacturer, milage, etc. The task is to do some initial analysis on the data, clean it up by removing any duplicates/outliers and then find the factors that a customer cares about the most. Finally, the car dealership needs to know what the results are so they are able to implement the findings into their inventory, sales and marketing plan.
